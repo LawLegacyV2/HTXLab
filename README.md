@@ -6,7 +6,7 @@ Scenario: Determine if a 3D point lies inside a sphere.
 
 ✅ C# API and service logic with JSON input/output
 
-✅ Swagger, DI, and unit tests implemented
+✅ Swagger, DI, and unit tests implemented  (https://localhost:7108/swagger/index.html)  (Test Project - for each output)
 
 Question 2: Square Count in Grid
 Scenario: Given N×N grid, count all unique squares (1x1 up to NxN).
