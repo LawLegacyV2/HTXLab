@@ -5,24 +5,30 @@ Question 1: Point in Sphere
 Scenario: Determine if a 3D point lies inside a sphere.
 
 ✅ C# API and service logic with JSON input/output
+
 ✅ Swagger, DI, and unit tests implemented
 
 Question 2: Square Count in Grid
 Scenario: Given N×N grid, count all unique squares (1x1 up to NxN).
 
 ✅ C# WPF app with animation and export-to-PNG
+
 ✅ Visual enhancements (color per size), responsive controls
 
 Question 3: Social Media Microservices
 Scenario: Architect a scalable microservice-based social platform.
+
 ✅ Include explanation in word document
 
 Question 4: Insect Swarm Boids
 Scenario: Simulate flying insects (not birds/fish) using a boid system.
 
 ✅ WPF-based real-time swarm simulation
+
 ✅ Light-based attraction, wing visuals, and trail effects
+
 ✅ Triggerable burst events and mouse interaction
+
 ✅ Reference video linked
 
 Question 5: E-Commerce MVP
