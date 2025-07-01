@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/SpherePointChecker/obj
+/SphereApi/bin/Debug/net9.0
+/SphereApi/obj
+/SphereApi.Tests/bin/Debug/net9.0
+/SphereApi.Tests/obj
+/SquareGridVisualizer/bin/Debug/net9.0-windows
+/SquareGridVisualizer/obj
+/WpfInsectSwarm/bin/Debug/net8.0-windows
+/WpfInsectSwarm/obj

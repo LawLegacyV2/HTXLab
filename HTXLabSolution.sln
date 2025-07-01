@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36203.30
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Question1_SphereApi", "SphereApi\Question1_SphereApi.csproj", "{46398598-6D63-644A-8023-9625EB22BFFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Question1_SphereApi.Tests", "SphereApi.Tests\Question1_SphereApi.Tests.csproj", "{89FA9979-965A-4BFC-A958-CC99F8430572}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Question2_SquareGridVisualizer", "SquareGridVisualizer\Question2_SquareGridVisualizer.csproj", "{D2FB7475-C847-B5CB-E2E6-8FD264EA00C3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Question3_SocialPlatformSolution", "Question3_SocialPlatformSolution", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+	ProjectSection(SolutionItems) = preProject
+		SocialMedia_Microservice_Architecture\SocialMedia_Microservice_Architecture.docx = SocialMedia_Microservice_Architecture\SocialMedia_Microservice_Architecture.docx
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Question4_InsectSwarm", "WpfInsectSwarm\Question4_InsectSwarm.csproj", "{C2CE939B-266E-B1B4-ACFE-7A0FFF79E616}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Question5_Ecommerce_MVP", "Question5_Ecommerce_MVP", "{28BF2822-87FE-41B0-9A85-DA44194C2DC8}"
+	ProjectSection(SolutionItems) = preProject
+		Ecommerce_MVP\Ecommerce_MVP_Tech_Document.docx = Ecommerce_MVP\Ecommerce_MVP_Tech_Document.docx
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Question6_Database_Overloaded_Strategy", "Question6_Database_Overloaded_Strategy", "{836ABBF5-A323-49FD-80FC-1133ACADA6F5}"
+	ProjectSection(SolutionItems) = preProject
+		Database_Overloaded_Strategy\Database_Overload_Complete_Strategy.docx = Database_Overloaded_Strategy\Database_Overload_Complete_Strategy.docx
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46398598-6D63-644A-8023-9625EB22BFFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46398598-6D63-644A-8023-9625EB22BFFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46398598-6D63-644A-8023-9625EB22BFFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46398598-6D63-644A-8023-9625EB22BFFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89FA9979-965A-4BFC-A958-CC99F8430572}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89FA9979-965A-4BFC-A958-CC99F8430572}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89FA9979-965A-4BFC-A958-CC99F8430572}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89FA9979-965A-4BFC-A958-CC99F8430572}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2FB7475-C847-B5CB-E2E6-8FD264EA00C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2FB7475-C847-B5CB-E2E6-8FD264EA00C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2FB7475-C847-B5CB-E2E6-8FD264EA00C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2FB7475-C847-B5CB-E2E6-8FD264EA00C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2CE939B-266E-B1B4-ACFE-7A0FFF79E616}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2CE939B-266E-B1B4-ACFE-7A0FFF79E616}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2CE939B-266E-B1B4-ACFE-7A0FFF79E616}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2CE939B-266E-B1B4-ACFE-7A0FFF79E616}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6520DFA2-C5CF-45E1-B3D0-C4E8B3886A1E}
+	EndGlobalSection
+EndGlobal
